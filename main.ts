@@ -1,3 +1,3 @@
 const a = "1"
 
-console.log('aaaa', a.foo())
+console.log('aaaa', a)
